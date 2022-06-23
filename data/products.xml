@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<products>
+  <product price='1000' count='5'>
+    <book title='Приключения Тома Сойера' author_name='Марк Твен'/>
+  </product>
+  <product price='1100' count='1'>
+    <book title='Воспоминания Шерлока Холмса' author_name='Артур Конан Дойль'/>
+  </product>
+  <product price='500' count='2'>
+    <disk album_name='Turbo' artist_name='Judas Priest' genre='Heavy Metal'/>
+  </product>
+  <product price='550' count='3'>
+    <disk album_name='Ram It Down' artist_name='Judas Priest' genre='Heavy Metal'/>
+  </product>
+  <product price='350' count='3'>
+    <film title='Пролетая над грездом кукушки' director_name='Милош Форман' year='1975'/>
+  </product>
+  <product price='1000' count='1'>
+    <disk artist_name='Judas Priest' album_name='Rockarolla' genre='Heavy Metal'/>
+  </product>
+</products>
